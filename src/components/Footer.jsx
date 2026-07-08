@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import cv from "../assets/RahulCV.pdf";
+import resume from "../assets/Rahulcv.pdf";
 const Footer = () => {
   return (
     <div className="footers" id="Footer">
