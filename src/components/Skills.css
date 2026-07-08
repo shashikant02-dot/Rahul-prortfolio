@@ -1,0 +1,39 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(120px,1fr));
+    gap: 30px;
+}
+
+.item img{
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+   
+}
+.item{
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid #3a3a3a;
+    background-color: #1e1e1e;
+    text-align: center;
+    margin-top: 20px;
+color: white;
+    transition:transform 0.3s ease ,box-shadow 0.3s ease;
+}
+.item:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 10px 5px  rgb(0,0,0, 0.3);
+}
+.item h3{
+    font-size: 1rem;
+    font-weight:   500;
+}
+.name{
+    color: orange;
+}
+.skill-icon{
+    width: 60px !important;
+    height: 50px !important;
+    object-fit: contain;
+    margin-top: 12px;
+}
