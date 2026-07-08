@@ -13,27 +13,27 @@ const Skills = () => {
       <div className="line"></div>
       <div className="grid-container">
         <div className="item">
-          <img src={seo} alt=""  className="skill-icon"/>
-          <h3 >SEO</h3>
+          <img src={seo} alt="" className="skill-icon" />
+          <h3>SEO</h3>
         </div>
         <div className="item">
-          <img src={smm} alt=""/>
+          <img src={smm} alt="" />
           <h3>SMM</h3>
         </div>
         <div className="item">
-          <img src={ads} alt=""/>
+          <img src={ads} alt="" />
           <h3>Google Ads</h3>
         </div>
         <div className="item">
-          <img src={bg} alt=""/>
+          <img src={bg} alt="" />
           <h3>Facebook & Instagram Marketing</h3>
         </div>
         <div className="item">
-          <img src={cm} alt=""   className="skill-icon"/>
+          <img src={cm} alt="" className="skill-icon" />
           <h3>Content Marketing</h3>
         </div>
         <div className="item">
-          <img src={em} alt=""/>
+          <img src={em} alt="" />
           <h3>Email Marketing</h3>
         </div>
       </div>
