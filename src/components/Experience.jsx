@@ -19,11 +19,11 @@ const Experience = () => {
         <div className="cards">
           <div className="top-row">
             <img src={logo2} className="imgslogo" alt="company logo" />
-            <span className="joining">27/JAN/2025 - 27/JUL/2025</span>
+            <span className="joining">10/July/2025 - 12/Jan/2026</span>
           </div>
 
           <div className="intern">
-            <h3>Training - KP IT Experts</h3>
+            <h3>Training - KP ITEXPERTS</h3>
           </div>
 
           <div className="desc">
@@ -44,11 +44,11 @@ const Experience = () => {
         <div className="cards">
           <div className="top-row">
             <img src={logo2} className="imgslogo" alt="company logo" />
-            <span className="joining">23/March/2025 - 27/Sept/2025</span>
+            <span className="joining">04/Feb/2026 - PRESENT</span>
           </div>
 
           <div className="intern">
-            <h3>Internship - KP IT Experts</h3>
+            <h3>Work at -  KP ITEXPERTS</h3>
           </div>
 
           <div className="desc">
